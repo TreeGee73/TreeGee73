@@ -20,11 +20,11 @@ Technology program leader with 20+ years directing complex, multi-location IT in
 
 ### 🌐 Current Projects
 - [theresagrier.com](https://theresagrier.com) — Personal portfolio and professional site (Astro, self-built)
-- [GeeCubed, LLC](https://theresagrier.com) — Technology consulting practice (web development, IT infrastructure, cybersecurity)
+- GeeCubed, LLC — Technology consulting practice (web development, IT infrastructure, cybersecurity)
 
 ### 🌱 Currently Pursuing
 - B.S./M.S. Information Technology — Western Governors University (Accelerated Program)
-- CompTIA Network+ and Security+
+- CompTIA A+, Network+ and Security+
 
 ### 📫 Let's Connect
 - 🌐 [theresagrier.com](https://theresagrier.com)
