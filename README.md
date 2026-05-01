@@ -1,35 +1,35 @@
 # Hi, I'm Theresa Grier 👋
+## 🖥️ Senior IT Program Manager | Web Developer | Technology Consultant
 
-## 🔐 IT Security Professional | CompTIA A+ Certified
+Technology program leader with 20+ years directing complex, multi-location IT initiatives — from enterprise cloud migrations and SaaS governance to full-stack web development. Currently completing a B.S./M.S. in Information Technology (Accelerated Program) at Western Governors University; CompTIA A+ certified.
 
-I'm an IT and security professional with 20+ years of infrastructure leadership experience, currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University.
-
-### 🎯 Current Focus
-- Earning cybersecurity certifications (CompTIA A+, Security+, Network+)
-- Building hands-on security projects and automation tools
-- Developing Python and Bash scripting skills for security operations
-- Creating home lab environments for threat detection and analysis
+### 🎯 What I Do
+- **IT Leadership & Program Management** — Enterprise platform strategy, infrastructure modernization, governance frameworks, and multi-stakeholder delivery
+- **Web Development** — Full-stack development and production site ownership through [GeeCubed, LLC](https://theresagrier.com) and personal projects
+- **Technology Consulting** — Translating complex technology decisions into plain-language solutions for small and mid-sized businesses
 
 ### 🛠️ Technical Skills
-**Security & Infrastructure:** Multi-site infrastructure management, cybersecurity governance, incident response, vulnerability assessment, access control
 
-**Development:** HTML, CSS, JavaScript, Python (learning), Bash scripting, database management, API integration
+**Program & Project Leadership:** Portfolio management, Agile/Scrum/Waterfall, governance frameworks, change management, budget oversight, vendor management, executive reporting
 
-**Tools & Platforms:** Microsoft 365, Azure, Active Directory, Linux, Windows Server, CMS platforms
+**IT Infrastructure & Security:** Multi-site infrastructure, cloud services (Azure, AWS, GCP), Microsoft 365, Active Directory, SharePoint, endpoint security, cybersecurity governance, compliance
 
-### 📚 About This Repository
-This GitHub started during my Full-Stack Web Developer bootcamp at University of Arizona and is evolving to showcase security automation projects, scripts, and cybersecurity tools as I advance my skills.
+**Development:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Astro, TailwindCSS, REST API integration, Git, CI/CD workflows
 
-### 🌱 Currently Learning
-- Python for security operations and automation
-- Network security and defense strategies
-- SIEM tools and log analysis
-- Threat detection and incident response
+**Platforms & Tools:** Jira, MS Project, ServiceNow, ERP/CRM/ATS/HRIS platforms, workflow automation, SaaS portfolio governance
+
+### 🌐 Current Projects
+- [theresagrier.com](https://theresagrier.com) — Personal portfolio and professional site (Astro, self-built)
+- [GeeCubed, LLC](https://theresagrier.com) — Technology consulting practice (web development, IT infrastructure, cybersecurity)
+
+### 🌱 Currently Pursuing
+- B.S./M.S. Information Technology — Western Governors University (Accelerated Program)
+- CompTIA Network+ and Security+
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/theresa-grier](https://linkedin.com/in/theresa-grier)
-- Email: theresa.grier@proton.me
+- 🌐 [theresagrier.com](https://theresagrier.com)
+- 💼 [linkedin.com/in/theresa-grier](https://linkedin.com/in/theresa-grier)
+- 📧 [theresa.grier@proton.me](mailto:theresa.grier@proton.me)
 
 ---
-
-*Building resilient systems and protecting digital infrastructure, one script at a time.*
+*20+ years of making technology work for people — from enterprise infrastructure to production websites.*
