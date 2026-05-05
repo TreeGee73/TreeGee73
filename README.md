@@ -28,8 +28,6 @@ Technology program leader with 20+ years directing complex, multi-location IT in
 
 ### 📫 Let's Connect
 - 🌐 [theresagrier.com](https://theresagrier.com)
-- 💼 [linkedin.com/in/theresa-grier](https://linkedin.com/in/theresa-grier)
-- 📧 [theresa.grier@proton.me](mailto:theresa.grier@proton.me)
 
 ---
 *20+ years of making technology work for people — from enterprise infrastructure to production websites.*
