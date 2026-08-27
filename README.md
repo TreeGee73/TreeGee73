@@ -1,11 +1,11 @@
 # Hi, I'm Theresa Grier 👋
-## 🖥️ Senior IT Program Manager | Web Developer | Technology Consultant
+## 🖥️ IT Program & Project Manager | Web Developer
 
-Technology program leader with 20+ years directing complex, multi-location IT initiatives — from enterprise cloud migrations and SaaS governance to full-stack web development. Currently completing a B.S./M.S. in Information Technology (Accelerated Program) at Western Governors University; CompTIA A+ certified.
+Technology program leader with 20+ years directing complex, multi-location IT initiatives — from enterprise cloud migrations and SaaS governance to full-stack web development. Completing a B.S./M.S. in Information Technology (Accelerated Program) at Western Governors University; CompTIA A+ certified.
 
 ### 🎯 What I Do
 - **IT Leadership & Program Management** — Enterprise platform strategy, infrastructure modernization, governance frameworks, and multi-stakeholder delivery
-- **Web Development** — Full-stack development and production site ownership through [GeeCubed, LLC](https://theresagrier.com) and personal projects
+- **Web Development** — Full-stack development and production site ownership through GeeCubed, LLC and personal projects
 - **Technology Consulting** — Translating complex technology decisions into plain-language solutions for small and mid-sized businesses
 
 ### 🛠️ Technical Skills
@@ -20,11 +20,11 @@ Technology program leader with 20+ years directing complex, multi-location IT in
 
 ### 🌐 Current Projects
 - [theresagrier.com](https://theresagrier.com) — Personal portfolio and professional site (Astro, self-built)
-- GeeCubed, LLC — Technology consulting practice (web development, IT infrastructure, cybersecurity)
+- GeeCubed, LLC — Technology consulting practice serving small and mid-sized businesses (web development, IT infrastructure)
 
-### 🌱 Currently Pursuing
+### 🌱 Also Pursuing
 - B.S./M.S. Information Technology — Western Governors University (Accelerated Program)
-- CompTIA A+, Network+ and Security+
+- Additional industry certifications
 
 ### 📫 Let's Connect
 - 🌐 [theresagrier.com](https://theresagrier.com)
